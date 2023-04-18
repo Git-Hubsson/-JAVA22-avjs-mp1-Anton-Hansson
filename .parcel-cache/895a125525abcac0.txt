@@ -1,4 +1,16 @@
-5248
+5250
+101C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\node_modules\@parcel\plugin133257760524221681 1
+86C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\package.json133262230037314536 0
+104C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\node_modules\@msgpackr-extract133259324875959982 1
+118C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\node_modules\caniuse-lite\data\regions\CZ.js133257760560874424 0
+130C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\node_modules\caniuse-lite\data\features\accelerometer.js133257760528804525 0
+95C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\node_modules\get-port133257760527141493 1
+93C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\node_modules\@lezer133257760502644701 1
+119C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\node_modules\fast-glob\out\readers\async.d.ts133257760898071813 0
+102C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\node_modules\posthtml-render133257760528100070 1
+120C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\node_modules\caniuse-lite\data\features\ime.js133257760566990879 0
+109C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\node_modules\hard-rejection\license133257760896275911 0
+84C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\.gitignore133262781552270807 0
 93C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\node_modules\arrify133257760896114184 1
 142C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\node_modules\meow\node_modules\type-fest\source\set-return-type.d.ts133257760898503423 0
 124C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\node_modules\@parcel\runtime-js\lib\helpers\worker133257760544623090 1
@@ -26,11 +38,11 @@
 136C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\node_modules\@swc\helpers\src\_check_private_redeclaration.mjs133257760550091235 0
 117C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\node_modules\domutils\lib\querying.d.ts.map133257760536589257 0
 116C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\node_modules\caniuse-lite\data\features.js133257760564585502 0
-78C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\docs133262774458137857 1
+78C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\docs133262783893937270 1
 106C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\node_modules\yaml\browser\seq.js133257760544187307 0
 143C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\node_modules\htmlnano\docs\versioned_docs\version-2.0.0\030-config.md133257760548165363 0
 124C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\node_modules\csso\lib\restructure\1-mergeAtrule.js133257760518868524 0
-79C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\.idea133262372311515636 1
+79C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\.idea133262783561995533 1
 91C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\package-lock.json133259324877075406 0
 108C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\node_modules\fastq\test\example.ts133257760897161451 0
 93C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\src\js\highscore.js133258802497923446 0
@@ -50,18 +62,16 @@
 123C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\node_modules\@jridgewell\resolve-uri\package.json133257760519463650 0
 105C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\node_modules\fill-range\LICENSE133257760519291399 0
 131C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\node_modules\utility-types\dist\functional-helpers.js.map133257760530862404 0
-101C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\node_modules\@parcel\plugin133257760524221681 1
-86C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\package.json133262230037314536 0
-131C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\node_modules\@parcel\runtime-js\lib\helpers\bundle-url.js133257760528857274 0
-84C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\src\images133257750851488757 1
-112C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\node_modules\fast-glob\out\utils\fs.js133257760897263556 0
-102C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\node_modules\decamelize-keys133257760896114184 1
 99C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\node_modules\svgo\LICENSE133257760517531668 0
 143C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\node_modules\meow\node_modules\type-fest\source\iterable-element.d.ts133257760897707155 0
 108C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\node_modules\color-convert\LICENSE133257760528075290 0
 121C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\node_modules\@parcel\codeframe\src\codeframe.js133257760540106506 0
 120C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\node_modules\weak-lru-cache\tests\benchmark.js133257760518953753 0
 77C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\src133257895634052582 1
+131C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\node_modules\@parcel\runtime-js\lib\helpers\bundle-url.js133257760528857274 0
+84C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\src\images133257750851488757 1
+112C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\node_modules\fast-glob\out\utils\fs.js133257760897263556 0
+102C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\node_modules\decamelize-keys133257760896114184 1
 88C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\src\index.html133257895634052582 0
 135C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\node_modules\caniuse-lite\data\features\css-math-functions.js133257760552416743 0
 125C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\node_modules\caniuse-lite\data\features\css-sel2.js133257760553035349 0
@@ -132,11 +142,6 @@
 118C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\node_modules\htmlnano\docs\package-lock.json133257760546145147 0
 136C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\node_modules\@parcel\package-manager\src\promiseFromProcess.js133257760541510114 0
 93C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\node_modules\@babel133257760502894132 1
-104C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\node_modules\@msgpackr-extract133259324875959982 1
-118C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\node_modules\caniuse-lite\data\regions\CZ.js133257760560874424 0
-130C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\node_modules\caniuse-lite\data\features\accelerometer.js133257760528804525 0
-95C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\node_modules\get-port133257760527141493 1
-93C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\node_modules\@lezer133257760502644701 1
 143C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\node_modules\read-pkg\node_modules\type-fest\source\set-optional.d.ts133257760898449141 0
 108C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\node_modules\posthtml\lib\index.js133257760519652112 0
 111C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\node_modules\json5\dist\index.min.mjs133257760536609428 0
@@ -427,8 +432,8 @@
 125C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\node_modules\@parcel\transformer-image\package.json133257760530710440 0
 98C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\node_modules\is-arrayish133257760529986888 1
 104C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\node_modules\svgo\lib\types.ts133257760549497890 0
-104C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\node_modules\yaml\package.json133257760547523683 0
 119C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\node_modules\nth-check\lib\esm\compile.js.map133257760535806025 0
+104C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\node_modules\yaml\package.json133257760547523683 0
 137C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\COPYRIGHT133257760524279572 0
 131C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\node_modules\caniuse-lite\data\features\battery-status.js133257760548014727 0
 101C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\node_modules\is-core-module133257760897013458 1
@@ -623,9 +628,6 @@
 131C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\node_modules\read-pkg-up\node_modules\type-fest\readme.md133257760896114184 0
 118C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\node_modules\caniuse-lite\data\regions\TT.js133257760570599710 0
 102C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\node_modules\posthtml-parser133257760529658702 1
-119C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\node_modules\fast-glob\out\readers\async.d.ts133257760898071813 0
-102C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\node_modules\posthtml-render133257760528100070 1
-120C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\node_modules\caniuse-lite\data\features\ime.js133257760566990879 0
 93C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\node_modules\rimraf133257760896752660 1
 129C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\node_modules\@babel\helper-validator-identifier\scripts133257760533584749 1
 118C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\node_modules\@nodelib\fs.stat\out\index.d.ts133257760897276973 0
@@ -1884,7 +1886,6 @@
 126C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\node_modules\read-pkg\node_modules\type-fest\license133257760895330231 0
 148C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\node_modules\normalize-package-data\node_modules\semver\functions\patch.js133257760897853916 0
 104C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\node_modules\fastq\example.mjs133257760897106059 0
-119C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\node_modules\@parcel\source-map\dist\types.js133257760536635000 0
 125C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\node_modules\read-pkg\node_modules\type-fest\source133257760898780101 1
 123C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\node_modules\cosmiconfig\dist\cacheWrapper.js.map133257760535879285 0
 107C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\node_modules\kind-of\package.json133257760895917545 0
@@ -2317,7 +2318,7 @@
 136C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\node_modules\@parcel\runtime-js\src\helpers\bundle-manifest.js133257760527671615 0
 163C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\node_modules\msgpackr-extract\node_modules\.bin\node-gyp-build-optional-packages-optional133257760571869856 0
 119C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\node_modules\cosmiconfig\dist\getDirectory.js133257760528926874 0
-97C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\docs\index.db0b4d34.css133262774457640736 0
+97C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\docs\index.db0b4d34.css133262783893833002 0
 167C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\node_modules\msgpackr-extract\node_modules\.bin\node-gyp-build-optional-packages-optional.cmd133257760571869856 0
 126C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\node_modules\json-parse-even-better-errors\README.md133257760527253315 0
 123C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\node_modules\css-what\lib\commonjs\stringify.d.ts133257760539880631 0
@@ -2591,7 +2592,7 @@
 106C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\node_modules\lmdb\dict\dict2.txt133257760551452765 0
 115C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\node_modules\@parcel\workers\lib\Trace.js133257760544676977 0
 109C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\node_modules\lmdb\dependencies\lmdb133257760519708903 1
-99C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\docs\scissor.cf08812f.png133262774457640736 0
+99C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\docs\scissor.cf08812f.png133262783892680454 0
 118C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\node_modules\caniuse-lite\data\regions\NA.js133257760568685839 0
 141C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\node_modules\@msgpackr-extract\msgpackr-extract-win32-x64\README.md133257760518990036 0
 117C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\node_modules\lmdb\dependencies\lmdb-data-v1133257760517752066 1
@@ -2916,7 +2917,6 @@
 102C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\node_modules\has\LICENSE-MIT133257760895597089 0
 112C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\node_modules\@parcel\watcher\README.md133257760543752757 0
 104C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\node_modules\has\test\index.js133257760896598727 0
-109C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\node_modules\hard-rejection\license133257760896275911 0
 114C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\node_modules\hard-rejection\package.json133257760895207416 0
 118C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\node_modules\caniuse-lite\data\regions\GA.js133257760566541411 0
 148C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\node_modules\@parcel\transformer-react-refresh-wrap\lib\helpers\helpers.js133257760518953753 0
@@ -4102,6 +4102,7 @@
 135C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\node_modules\caniuse-lite\data\features\unhandledrejection.js133257760570709237 0
 120C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\node_modules\@swc\helpers\src\_ts_metadata.mjs133257760551909914 0
 112C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\node_modules\@parcel\transformer-image133257760530478593 1
+87C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\.idea\vcs.xml133262783561971164 0
 120C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\node_modules\caniuse-lite\data\features\url.js133257760570709237 0
 149C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\node_modules\@parcel\package-manager\test\fixtures\has-foo\node_modules\foo133257760545474128 1
 132C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\node_modules\caniuse-lite\data\features\urlsearchparams.js133257760570709237 0
@@ -4234,7 +4235,7 @@
 120C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\node_modules\@parcel\utils\src\PromiseQueue.js133257760548139510 0
 124C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\node_modules\abortcontroller-polyfill\package.json133257760536120219 0
 115C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\node_modules\abortcontroller-polyfill\src133257760535756101 1
-97C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\docs\paper.bc5b6eae.png133262774457640736 0
+97C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\docs\paper.bc5b6eae.png133262783892680454 0
 134C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\node_modules\abortcontroller-polyfill\src\abortcontroller.js133257760529348009 0
 144C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\node_modules\@parcel\package-manager\test\fixtures\packages\a\index.js133257760535879285 0
 127C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\node_modules\abortcontroller-polyfill\src\polyfill.js133257760533470744 0
@@ -4573,6 +4574,7 @@
 165C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\node_modules\@parcel\source-map\parcel_sourcemap_node\artifacts\index.linux-arm64-musl.node133257760548230478 0
 162C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\node_modules\@parcel\source-map\parcel_sourcemap_node\artifacts\index.linux-x64-gnu.node133257760548721469 0
 163C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\node_modules\@parcel\source-map\parcel_sourcemap_node\artifacts\index.linux-x64-musl.node133257760549174589 0
+119C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\node_modules\@parcel\source-map\dist\types.js133257760536635000 0
 131C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\node_modules\@parcel\source-map\dist\wasm-bindings-web.js133257760537518937 0
 136C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\node_modules\@parcel\source-map\dist\wasm-bindings-web.js.flow133257760528533483 0
 121C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\node_modules\@jridgewell\set-array\package.json133257760519443809 0
@@ -5240,10 +5242,10 @@
 98C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\node_modules\.bin\semver133257760571827231 0
 96C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\node_modules\.bin\svgo133257760571827231 0
 100C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\node_modules\.bin\svgo.cmd133257760571827231 0
-96C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\docs\index.4471f87b.js133262774457640736 0
-100C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\docs\index.4471f87b.js.map133262774458107850 0
-101C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\docs\index.db0b4d34.css.map133262774458107850 0
-89C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\docs\index.html133262774457640736 0
-96C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\docs\rock.b9a5acbc.png133262774457630720 0
+96C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\docs\index.4471f87b.js133262783893833002 0
+100C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\docs\index.4471f87b.js.map133262783893887349 0
+101C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\docs\index.db0b4d34.css.map133262783893887349 0
+89C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\docs\index.html133262783893833002 0
+96C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\docs\rock.b9a5acbc.png133262783892670461 0
 91C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\.idea\modules.xml133185123390000000 0
-93C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\.idea\workspace.xml133262372311485613 0
+93C:\Users\anton\OneDrive\Skrivbord\Java22\AvanceradJavaScript\miniprojekt1\.idea\workspace.xml133262783561451360 0

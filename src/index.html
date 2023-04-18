@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Rock, paper, scissors</title>
+    <script src="js/main.js" type="module"></script>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<div id="main-container">
+    <div id="player1">
+        <h1>Player 1</h1>
+        <h2></h2>
+        <div class="invisible">
+            <img class="weapon-of-choice" src="images/rock.png">
+            <img class="weapon-of-choice" src="images/scissor.png">
+            <img class="weapon-of-choice" src="images/paper.png">
+        </div>
+    </div>
+    <div id="result">
+        <h1>Start by choosing a username! </h1>
+        <div id="fight">
+            <form>
+                <input type="text" placeholder="Username" required>
+                <button>Submit</button>
+            </form>
+        </div>
+    </div>
+    <div id="player2">
+        <h1>Computer</h1>
+        <h2></h2>
+        <div class="invisible">
+            <img src="images/rock.png">
+            <img src="images/scissor.png">
+            <img src="images/paper.png">
+        </div>
+    </div>
+</div>
+<div id="bottomDiv">
+    <div id="highscore">
+        <h4>Highscore</h4>
+    </div>
+</div>
+</body>
+</html>

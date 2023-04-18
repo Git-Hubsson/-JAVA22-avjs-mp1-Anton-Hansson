@@ -1,0 +1,131 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background: linear-gradient(90deg, rgba(48,111,14,1) 0%, rgba(0,233,109,1) 100%, rgba(4,242,110,1) 100%);
+    color: #f8d805;
+    text-align: center;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+input{
+    height: 3rem;
+    width: 10rem;
+    text-align: center;
+    font-size: 200%;
+}
+
+button{
+    margin: 2rem;
+}
+
+#main-container{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 2rem;
+    margin: 2rem;
+}
+
+#player1, #player2, #result{
+    text-shadow: 2px 2px 5px black;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    text-align: center;
+}
+
+#player1, #player2{
+    width: 20rem;
+}
+
+#player1{
+    border-right: 10px double black;
+    height: 30rem;
+}
+
+#player2{
+    border-left: 10px double black;
+}
+
+#result h1{
+    width: 30rem;
+    font-size: 340%;
+    height: 15rem;
+}
+
+#highscore{
+    text-align: left;
+    margin-right: 35%;
+    order: 2;
+}
+
+#bottomDiv{
+    display: flex;
+    justify-content: left;
+    flex-direction: row-reverse;
+}
+
+h1{
+    font-size: 250%;
+    padding: 2rem;
+    margin: 0 2rem 2rem;
+    text-shadow: 2px 2px 5px black;
+}
+
+img{
+    outline: none;
+    background: none;
+    border: none;
+    max-height: 90px;
+    background: transparent;
+    margin-bottom: 1rem;
+    -webkit-filter: drop-shadow(5px 5px 5px #222);
+    filter: drop-shadow(5px 5px 5px #222);
+}
+
+.weapon-of-choice{
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.weapon-of-choice:hover{
+    transform:scale(1.3);
+}
+
+.invisible{
+    display: none;
+}
+
+#fight{
+    display: flex;
+    justify-content: space-around;
+    height: 140px;
+    align-items: center;
+}
+
+.fight-img{
+    transform: scale(1.55);
+    max-height: 100px;
+    animation: fadeIn;
+    animation-duration: 0.9s;
+}
+
+@keyframes fadeIn {
+    from {
+        height: 0;
+    }
+    to {
+        height: 100px;
+    }
+}
+
+h3{
+    font-size: 300%;
+    position: absolute;
+}

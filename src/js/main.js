@@ -114,7 +114,7 @@ async function fight(userWeapon) {
         round = 0;
         computerPoints = 0;
         if (userPoints > await highscore.compare()) {
-            await highscore.patch(name, userPoints)
+            await highscore.put(name, userPoints)
         }
         userPoints = 0;
     }

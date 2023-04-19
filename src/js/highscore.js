@@ -1,6 +1,6 @@
 export const highscore = {
     compare,
-    patch,
+    put,
     get
 }
 
@@ -16,7 +16,7 @@ async function compare() {
     return lowestHighscore;
 }
 
-async function patch(name, score) {
+async function put(name, score) {
     const url = 'https://highscore-3635d-default-rtdb.europe-west1.firebasedatabase.app/.json';
     const response = await fetch(url);
     const data = await response.json();

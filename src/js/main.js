@@ -15,6 +15,17 @@ h1round.innerText = `Round ${round}`;
 const bottomDiv = document.querySelector('#bottomDiv');
 bottomDiv.append(h1round);
 
+const weaponOutcomes = {
+    rock: { scissor: 'win', paper: 'lose', rock: 'tie' },
+    scissor: { paper: 'win', rock: 'lose', scissor: 'tie' },
+    paper: { rock: 'win', scissor: 'lose', paper: 'tie' }
+};
+const weaponImageURLs = {
+    rock: new URL(`../images/rock.png`, import.meta.url),
+    scissor: new URL(`../images/scissor.png`, import.meta.url),
+    paper: new URL(`../images/paper.png`, import.meta.url)
+};
+
 highscore.get();
 
 document.querySelector('button').addEventListener('click', event => {
@@ -42,53 +53,24 @@ async function fight(userWeapon) {
     let userWeaponImgURL;
     let computerWeaponImgURL;
 
-    if (userWeapon === 'rock' && computerWeapon === 'scissor') {
-        userWeaponImgURL = new URL(`../images/rock.png`, import.meta.url);
-        computerWeaponImgURL = new URL(`../images/scissor.png`, import.meta.url);
-        userPoints++;
-        h1Elements[1].innerText = `${name} wins!`
-    } else if (userWeapon === 'rock' && computerWeapon === 'paper') {
-        userWeaponImgURL = new URL(`../images/rock.png`, import.meta.url);
-        computerWeaponImgURL = new URL(`../images/paper.png`, import.meta.url);
-        computerPoints++;
-        h1Elements[1].innerText = 'Computer wins!'
-    } else if (userWeapon === 'rock' && computerWeapon === 'rock') {
-        userWeaponImgURL = new URL(`../images/rock.png`, import.meta.url);
-        computerWeaponImgURL = new URL(`../images/rock.png`, import.meta.url);
-        h1Elements[1].innerText = "It's a tie";
+    const outcome = weaponOutcomes[userWeapon][computerWeapon];
+
+    switch (outcome) {
+        case 'win':
+            userPoints++;
+            h1Elements[1].innerText = `${name} wins!`;
+            break;
+        case 'lose':
+            computerPoints++;
+            h1Elements[1].innerText = 'Computer wins!';
+            break;
+        case 'tie':
+            h1Elements[1].innerText = "It's a tie";
+            break;
     }
 
-    if (userWeapon === 'scissor' && computerWeapon === 'paper') {
-        userWeaponImgURL = new URL(`../images/scissor.png`, import.meta.url);
-        computerWeaponImgURL = new URL(`../images/paper.png`, import.meta.url);
-        userPoints++;
-        h1Elements[1].innerText = `${name} wins!`
-    } else if (userWeapon === 'scissor' && computerWeapon === 'rock') {
-        userWeaponImgURL = new URL(`../images/scissor.png`, import.meta.url);
-        computerWeaponImgURL = new URL(`../images/rock.png`, import.meta.url);
-        computerPoints++;
-        h1Elements[1].innerText = 'Computer wins!'
-    } else if (userWeapon === 'scissor' && computerWeapon === 'scissor') {
-        userWeaponImgURL = new URL(`../images/scissor.png`, import.meta.url);
-        computerWeaponImgURL = new URL(`../images/scissor.png`, import.meta.url);
-        h1Elements[1].innerText = "It's a tie";
-    }
-
-    if (userWeapon === 'paper' && computerWeapon === 'rock') {
-        userWeaponImgURL = new URL(`../images/paper.png`, import.meta.url);
-        computerWeaponImgURL = new URL(`../images/rock.png`, import.meta.url);
-        userPoints++;
-        h1Elements[1].innerText = `${name} wins!`
-    } else if (userWeapon === 'paper' && computerWeapon === 'scissor') {
-        userWeaponImgURL = new URL(`../images/paper.png`, import.meta.url);
-        computerWeaponImgURL = new URL(`../images/scissor.png`, import.meta.url);
-        computerPoints++;
-        h1Elements[1].innerText = 'Computer wins!'
-    } else if (userWeapon === 'paper' && computerWeapon === 'paper') {
-        userWeaponImgURL = new URL(`../images/paper.png`, import.meta.url);
-        computerWeaponImgURL = new URL(`../images/paper.png`, import.meta.url);
-        h1Elements[1].innerText = "It's a tie";
-    }
+    userWeaponImgURL = weaponImageURLs[userWeapon];
+    computerWeaponImgURL = weaponImageURLs[computerWeapon];
 
     const userWeaponImg = document.createElement('img');
     userWeaponImg.src = userWeaponImgURL.href;

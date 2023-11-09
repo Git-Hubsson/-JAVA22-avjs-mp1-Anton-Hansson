@@ -19,12 +19,18 @@ Firebase: Used for storing and retrieving product data.
 
 CSS: For styling components.
 ## Setup and Installation
-Clone the Repository: git clone [repository-url]
+Clone the Repository: git clone https://github.com/Git-Hubsson/-JAVA22-avjs-mp1-Anton-Hansson.git
+
 Install Dependencies: Run npm install in the project directory.
+
 Start the Application: Execute npm start to run the app in development mode.
-Components
+## Components
 App: Main application component.
+
 Menu: Navigation and search functionality.
+
 Products: Displays product listings.
+
 Checkout: Manages the checkout process.
+
 CheckoutProducts: Renders individual products in the checkout page.

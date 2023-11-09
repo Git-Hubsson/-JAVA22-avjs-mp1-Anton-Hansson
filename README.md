@@ -1,36 +1,33 @@
-# React Webshop Application
+# Rock-Paper-Scissors Game with Highscore Tracking
 ## Overview
-This project is a React-based webshop application. It's designed to provide a seamless shopping experience, allowing users to browse products, add them to a cart, and complete their purchase. The application interacts with a Firebase database to fetch and update product data.
+This project is a web-based implementation of the classic game Rock-Paper-Scissors with an integrated highscore system. Players can choose their names, select from rock, paper, or scissors, and compete against a computer opponent. The game keeps track of the player's and the computer's scores, updating them as rounds progress.
 
 ## Features
-Product Browsing: Users can view a list of products, with details such as name, price, and stock quantity.
+User Interaction: Players enter their names and select their weapons (rock, paper, or scissors) for each round.
 
-Cart Management: Products can be added to a shopping cart. The cart updates in real time, showing the total number of items.
+Highscore System: Integrates with a Firebase database to record and compare high scores.
 
-Dynamic Searching and Filtering: The shop includes a search feature and dynamic filters for product attributes like color.
+Dynamic Gameplay: Each round randomly generates the computer's weapon choice, providing a unique challenge each time.
 
-Checkout Process: Users can view their cart, see the total price, and complete their purchase or empty the cart.
+Score Tracking: Real-time updates of player and computer scores.
 
-Responsive UI: The application has a responsive design, ensuring a consistent experience across different devices.
-## Technologies
-React: For building the user interface.
+Visual Feedback: Utilizes images to represent weapon choices and animate game outcomes.
+## Technologies Used
+HTML/CSS: For structuring and styling the game interface.
 
-Firebase: Used for storing and retrieving product data.
+JavaScript: To implement game logic and handle user interactions.
 
-CSS: For styling components.
-## Setup and Installation
-Clone the Repository: git clone https://github.com/Git-Hubsson/-JAVA22-avjs-mp1-Anton-Hansson.git
-
-Install Dependencies: Run npm install in the project directory.
-
-Start the Application: Execute npm start to run the app in development mode.
-## Components
-App: Main application component.
-
-Menu: Navigation and search functionality.
-
-Products: Displays product listings.
-
-Checkout: Manages the checkout process.
-
-CheckoutProducts: Renders individual products in the checkout page.
+Firebase: For storing and retrieving highscore data.
+## Setup
+Clone the Repository: git clone [repository-url].
+Install Dependencies: Ensure all necessary dependencies are installed.
+Launch the Game: Open the HTML file in a web browser to start playing.
+Highscore Module
+compare: Compares the current score with the lowest highscore in the database.
+put: Updates the highscore list if the player's score is higher than the existing scores.
+get: Retrieves and displays the highscore list.
+Game Flow
+The game starts with the player entering their name.
+The player selects one of the three weapons: rock, paper, or scissors.
+The game displays the chosen weapons and the outcome of each round.
+Scores are updated, and the highscore is checked at the end of each game.
